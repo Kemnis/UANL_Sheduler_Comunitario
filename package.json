@@ -1,0 +1,23 @@
+{
+  "name": "uanl_sheduler_comunitario",
+  "version": "1.0.0",
+  "description": "Agenda que permite realizar una comprobacion en un intervalo de tiempo considerable en la plataforma de servicio social de la UANL de forma que te notifica cuando existen comunitarios que no sean de la dependencia CARITAS. PD: Desarrollado por un alumno desesperado por acabar su carrera xD",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^5.0.7",
+    "node-notifier": "^5.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "prestart": "cls",
+    "start": "electron ."
+  },
+  "keywords": [
+    "UANL",
+    "Shedule",
+    "Notifier",
+    "SimpleTask"
+  ],
+  "author": "Kemnis",
+  "license": "ISC"
+}
