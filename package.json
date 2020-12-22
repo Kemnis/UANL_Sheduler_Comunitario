@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "electron": "^5.0.7",
-    "node-notifier": "^5.4.0"
+    "node-notifier": "^8.0.1"
   },
   "devDependencies": {},
   "scripts": {
